@@ -4,7 +4,7 @@ A full-stack app that comprises of a react frontend paired with a Node/Express.j
 
 Based off of a react full-stack introduction
 
-Below, is the NPM documentation
+Below, you can find the `npm` commands documentation provided by create-react-app:
 
 ## Available Scripts
 
