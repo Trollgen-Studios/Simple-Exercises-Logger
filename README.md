@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Simple Exercises Logger
+
+A full-stack app that comprises of a react frontend paired with a Node/Express.js backend and a MongoDB database
+
+Based off of a react full-stack introduction
+
+Below, is the NPM documentation
 
 ## Available Scripts
 
